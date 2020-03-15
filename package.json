@@ -1,0 +1,26 @@
+{
+  "name": "stream-adventure",
+  "version": "1.0.0",
+  "description": "Solution with vanilla NodeJS",
+  "main": "beep_boop.js",
+  "dependencies": {
+    "request": "^2.88.2",
+    "tar": "^6.0.1",
+    "trumpet": "^1.7.2",
+    "websocket-stream": "^5.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slytherindor/stream-adventure.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slytherindor/stream-adventure/issues"
+  },
+  "homepage": "https://github.com/slytherindor/stream-adventure#readme"
+}
